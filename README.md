@@ -1,12 +1,16 @@
-## Getting Started
+# Dự án I Am Rich
 
-This project is a starting point for a Flutter application.
+Dự án IAmRich là một ứng dụng Flutter cơ bản hiển thị một hình ảnh và văn bản "I Am Rich" trên màn hình dành cho người mới học, giúp làm quen với quy trình phát triển ứng dụng di động.
 
-A few resources to get you started if this is your first Flutter project:
+## Nội dung tìm hiểu
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Cách sử dụng Flutter SDK để xây dựng ứng dụng.
+- Tích hợp Material Design và Cupertino Icons.
+- Quản lý tài nguyên (hình ảnh, fonts) trong ứng dụng Flutter.
+- Cấu trúc file và thiết lập dự án Flutter qua `pubspec.yaml`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Chức năng thực hiện
+
+- Hiển thị giao diện đơn giản với hình ảnh và biểu tượng diamond.
+- Sử dụng tài nguyên từ thư mục `images/` để minh họa.
+- Tích hợp các thành phần cơ bản của Flutter như giao diện và widget.
